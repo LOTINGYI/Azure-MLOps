@@ -6,7 +6,7 @@
 
 **Instructor**: Kyle Akepanidtaworn, Cloud Solution Architect (Advanced Analytics & Artificial Intelligence)
 
-**Slide**: https://www.slideshare.net/KorkridAkepanidtawor/ai-ml-operationalization-with-microsoft-azure
+**Presentation Deck**: [ML Operationalization (MLOps) with Microsoft Azure on SlideShare](https://www.slideshare.net/KorkridAkepanidtawor/ai-ml-operationalization-with-microsoft-azure).
 
 Trey Research Inc. delivers innovative solutions for manufacturers. They specialize in identifying and solving problems for manufacturers that can run the range from automating away mundane but time-intensive processes, to delivering cutting edge approaches that provide new opportunities for their manufacturing clients. Trey Research has decades specializing in data science and application development that until now were separate units. They have seen the value created by the ad-hoc synergies between data science and app development, but they would like to unlock the greater, long term value as they formalize their approach by combining the two units into one, and follow one standardized process for operationalizing their innovations.
 
