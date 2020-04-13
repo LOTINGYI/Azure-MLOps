@@ -1,12 +1,10 @@
 # ML Operationalization (MLOps) with Microsoft Azure 
 
-**Disclaimer**: The views and opinions expressed in this article are those of the author's and do not necessarily reflect the official policy or position of current or previous employer, organization, committee, other group or individual. Analysis performed within this article is based on limited dated open source information. Assumptions made within the analysis are not reflective of the position of any previous or current employer.
+**Disclaimer**: The following content is not officially endorsed by my employer. The views and opinions expressed in this article are those of the author's and do not necessarily reflect the official policy or position of current or previous employer, organization, committee, other group or individual. Analysis performed within this article is based on limited dated open source information. Assumptions made within the analysis are not reflective of the position of any previous or current employer.
 
 **Copyright**: Copyright (c) Microsoft Corporation
 
-**Instructor**: Kyle Akepanidtaworn, Cloud Solution Architect (Advanced Analytics & Artificial Intelligence)
-
-**Presentation Deck**: [ML Operationalization (MLOps) with Microsoft Azure on SlideShare](https://www.slideshare.net/KorkridAkepanidtawor/ai-ml-operationalization-with-microsoft-azure).
+**Instructor**: Kyle Akepanidtaworn, Azure Solutions Architect (Data Platform & AI)
 
 Trey Research Inc. delivers innovative solutions for manufacturers. They specialize in identifying and solving problems for manufacturers that can run the range from automating away mundane but time-intensive processes, to delivering cutting edge approaches that provide new opportunities for their manufacturing clients. Trey Research has decades specializing in data science and application development that until now were separate units. They have seen the value created by the ad-hoc synergies between data science and app development, but they would like to unlock the greater, long term value as they formalize their approach by combining the two units into one, and follow one standardized process for operationalizing their innovations.
 
